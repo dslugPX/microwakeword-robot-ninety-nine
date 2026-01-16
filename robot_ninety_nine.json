@@ -3,7 +3,7 @@
   "wake_word": "robot_ninety_nine",
   "author": "Tater Totterson",
   "website": "https://github.com/TaterTotterson/microWakeWord-Trainer-AppleSilicon",
-  "model": "robot_ninety_nine.tflite",
+  "model": "https://raw.githubusercontent.com/dslugPX/microwakeword-robot-ninety-nine/refs/heads/main/robot_ninety_nine.tflite",
   "trained_languages": [
     "en"
   ],
